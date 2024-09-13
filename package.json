@@ -9,14 +9,14 @@
     "start": "node ./bin/www"
   },
   "dependencies": {
-    "@barba/core": "^2.9.7",
+    "@barba/core": "^2.10.3",
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
-    "ejs": "~3.1.8",
-    "express": "~4.16.1",
-    "http-errors": "~1.6.3",
-    "morgan": "~1.9.1",
-    "nodemon": "^2.0.19"
+    "ejs": "~3.1.10",
+    "express": "~4.19.2",
+    "http-errors": "~1.8.1",
+    "morgan": "~1.10.0",
+    "nodemon": "^2.0.22"
   },
   "devDependencies": {
     "gh-pages": "^4.0.0"
